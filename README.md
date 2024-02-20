@@ -67,6 +67,19 @@ This third dashboard shows the demographics, cities, and transportation means of
 
 ## Analysis
 
+- It was observed that Emilianos, Michilco Restaurant Jap, Restaurant Las Mananitas, Cafe Punta Del Cielo, and Giovannis among others are highly rated restaurants according to the 
+  statistics. It is evident from the analysis that several factors contribute to the high ratings of the top-performing restaurants. To begin with, there is a strong correlation between 
+  positive ratings for both food and service and overall restaurant ratings. Consumers tend to give restaurants with excellent food and service better overall ratings. This highlights 
+  the importance of prioritizing food quality and service excellence to satisfy patrons and improve ratings in general. Findings also show most well-regarded restaurants have menus in 
+  the middle of the price range providing more evidence that there may be a sweet spot in pricing strategy that resonates strongly with patrons. While excessively high prices may drive 
+  away patrons, low-cost restaurants may struggle to retain their perceived value and quality. Moreover, the popularity of Mexican food in highly regarded restaurants suggests that 
+  customers may have a preference for this particular cuisine. Although every restaurant might provide a different kind of food, Mexican food is so popular that ratings might be improved 
+  by catering to customer tastes. This emphasizes how crucial it is to accommodate customer preferences and tastes to increase overall satisfaction and ratings. The relationship between 
+  ratings and restaurant location also indicates how customer demographics affect ratings. While restaurants in less densely populated locations could find it difficult to draw customers 
+  and earn high ratings, those in places with higher consumer populations typically receive higher ratings. This shows that favorable evaluations and general success in the restaurant 
+  industry are largely dependent on recognizing and meeting the demands and preferences of the local customer base.
+- 
+
 
 
 
