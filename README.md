@@ -72,13 +72,28 @@ This third dashboard shows the demographics, cities, and transportation means of
   positive ratings for both food and service and overall restaurant ratings. Consumers tend to give restaurants with excellent food and service better overall ratings. This highlights 
   the importance of prioritizing food quality and service excellence to satisfy patrons and improve ratings in general. Findings also show most well-regarded restaurants have menus in 
   the middle of the price range providing more evidence that there may be a sweet spot in pricing strategy that resonates strongly with patrons. While excessively high prices may drive 
-  away patrons, low-cost restaurants may struggle to retain their perceived value and quality. Moreover, the popularity of Mexican food in highly regarded restaurants suggests that 
-  customers may have a preference for this particular cuisine. Although every restaurant might provide a different kind of food, Mexican food is so popular that ratings might be improved 
-  by catering to customer tastes. This emphasizes how crucial it is to accommodate customer preferences and tastes to increase overall satisfaction and ratings. The relationship between 
-  ratings and restaurant location also indicates how customer demographics affect ratings. While restaurants in less densely populated locations could find it difficult to draw customers 
-  and earn high ratings, those in places with higher consumer populations typically receive higher ratings. This shows that favorable evaluations and general success in the restaurant 
-  industry are largely dependent on recognizing and meeting the demands and preferences of the local customer base.
-- 
+  away patrons, low-cost restaurants may struggle to retain their perceived value and quality.
+- Moreover, the popularity of Mexican food in highly regarded restaurants suggests that customers may have a preference for this particular cuisine. Although every restaurant might 
+  provide a different kind of food, Mexican food is so popular that ratings might be improved by catering to customer tastes. This emphasizes how crucial it is to accommodate customer 
+  preferences and tastes to increase overall satisfaction and ratings. The relationship between ratings and restaurant location also indicates how customer demographics affect ratings. 
+  While restaurants in less densely populated locations could find it difficult to draw customers and earn high ratings, those in places with higher consumer populations typically 
+  receive higher ratings. This shows that favorable evaluations and general success in the restaurant industry are largely dependent on recognizing and meeting the demands and 
+  preferences of the local customer base.
+- The analysis of consumer demographics within the surveyed population reveals several notable trends. Singles comprise the overwhelming majority, accounting for approximately 92.75% 
+  of the surveyed consumers, while married individuals represent only 7.25%. Moreover, students dominate the occupation demographic, constituting approximately 81.88% of the surveyed 
+  population, with employed and unemployed individuals making up 11.59% and 6.52%, respectively. In terms of age groups, younger demographics are prominently represented, with 
+  individuals aged 8-24 constituting approximately 72.46% of the surveyed population. Those aged 25-30 make up around 17.39%, while older age groups (31-45) and (60-82) represent 2.9% 
+  and 7.25%, respectively.
+- The consumer demographics point to a substantial bias in the sample in favor of younger, single people and students. Perceptions of consumer preferences and behaviors may be skewed by 
+  the overrepresentation of these demographic groups, especially if the dataset does not sufficiently capture a variety of demographic profiles. For instance, the prevalence of singles 
+  and students may have an impact on the kinds of eateries and cuisines that are represented in the dataset, which could have an effect on the analysis as a whole and the conclusions 
+  that are made. Consequently, even though the consumer demographics that have been observed offer insightful information about the population that was questioned, it is important to 
+  interpret these results cautiously and take into account any potential biases that might be present in the data sample.
+
+
+
+
+
 
 
 
