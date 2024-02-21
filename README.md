@@ -65,7 +65,7 @@ The second dashboard shows the comparison between the highly-rated restaurants a
 
 This third dashboard shows the demographics, cities, and transportation means of the consumers.
 
-## Analysis
+## Findings
 
 - It was observed that Emilianos, Michilco Restaurant Jap, Restaurant Las Mananitas, Cafe Punta Del Cielo, and Giovannis among others are highly rated restaurants according to the 
   statistics. It is evident from the analysis that several factors contribute to the high ratings of the top-performing restaurants. To begin with, there is a strong correlation between 
@@ -77,7 +77,7 @@ This third dashboard shows the demographics, cities, and transportation means of
   provide a different kind of food, Mexican food is so popular that ratings might be improved by catering to customer tastes. This emphasizes how crucial it is to accommodate customer 
   preferences and tastes to increase overall satisfaction and ratings. The relationship between ratings and restaurant location also indicates how customer demographics affect ratings. 
   While restaurants in less densely populated locations could find it difficult to draw customers and earn high ratings, those in places with higher consumer populations typically 
-  receive higher ratings. This shows that favorable evaluations and general success in the restaurant industry are largely dependent on recognizing and meeting the demands and 
+  receive higher ratings. This shows that favorable evaluations and general success in the restaurant industry largely depend on recognizing and meeting the demands and 
   preferences of the local customer base.
 - The analysis of consumer demographics within the surveyed population reveals several notable trends. Singles comprise the overwhelming majority, accounting for approximately 92.75% 
   of the surveyed consumers, while married individuals represent only 7.25%. Moreover, students dominate the occupation demographic, constituting approximately 81.88% of the surveyed 
@@ -89,6 +89,53 @@ This third dashboard shows the demographics, cities, and transportation means of
   and students may have an impact on the kinds of eateries and cuisines that are represented in the dataset, which could have an effect on the analysis as a whole and the conclusions 
   that are made. Consequently, even though the consumer demographics that have been observed offer insightful information about the population that was questioned, it is important to 
   interpret these results cautiously and take into account any potential biases that might be present in the data sample.
+- The analysis of the restaurant rating dataset uncovers demand & supply gaps that can be exploited within the market in the following areas:
+  a. Price Segmentation: Given that the majority of restaurants with high ratings charge medium prices and those with low ratings charge low prices, there may be room for price 
+     segmentation. By providing mid-range options with exceptional food quality and service, entrepreneurs may want to target customers who are searching for high-quality dining 
+     experiences at reasonable costs.
+
+  b. Customer demographics: Restaurant products can be customized to better suit the tastes and habits of the surveyed population, which is dominated by singles, students, and younger 
+     age groups. For instance, businesses should use menu items and marketing tactics created especially to cater to the tastes and financial constraints of young professionals and 
+     students.
+
+  c. Facilities and Services: Potential areas for differentiation and competitive advantage are highlighted by the research of facilities like parking and smoking rules. Entrepreneurs 
+     looking to attract health-conscious customers and improve overall eating experiences could think about introducing smoke-free rules or providing convenient parking alternatives.
+
+- After analyzing a variety of factors related to the restaurant industry, many important characteristics stand out as important factors to take into account when making a potential 
+  investment:
+  
+  a. Food and Service Quality: Since these factors have a significant impact on customer happiness and overall ratings, it is imperative to invest in a restaurant that prioritizes these 
+     areas.
+
+  b. Price plan: Restaurants with moderate prices tend to receive higher reviews, indicating that their pricing plan achieves a balance between affordability and perceived value. 
+     Consequently, it makes financial sense to invest in a restaurant that adheres to market trends and has competitive pricing.
+
+  c. Cuisine Diversity: Although serving a particular niche market may bring in business, opening a restaurant with a broad menu that features popular choices like Mexican food would 
+     attract a bigger customer base and lessen the risk of patrons' tastes changing.
+
+  d. Location and Customer Demographics: Investing in a restaurant located in a densely populated area, such as a metropolitan hub, may increase foot traffic and ratings. Additionally, 
+     as they align with current consumer trends, targeting demographics like singles, students, and younger age groups may help you succeed.
+
+  e. Franchise Opportunities: Franchised restaurants will be taken into account because they receive higher ratings and the benefits of established brand awareness and operational 
+     support. 
+
+  f. Services and Amenities: Purchasing a restaurant with useful features like parking areas and smoke-free areas can enhance the eating experience overall and attract a wider customer 
+     base. Additionally, being conveniently located for public transportation attracts more consumers.
+
+- To sum up, investing in a restaurant that prioritizes high-quality food and service, competitive pricing, a wide range of menu options, a prime location, and practical amenities is in 
+  line with industry trends and preferences. Furthermore, investors should position themselves for success in this competitive and dynamic industry by taking advantage of franchise 
+  opportunities and remaining aware of market dynamics.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
